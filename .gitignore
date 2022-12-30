@@ -1,0 +1,9 @@
+# Config
+.env
+
+# пиздец
+chat.ts
+
+# VSCode
+.vscode/*
+!.vscode/extensions.json
