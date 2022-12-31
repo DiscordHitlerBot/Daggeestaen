@@ -8,6 +8,6 @@
     },
     "importMap": "./import_map.json",
     "tasks": {
-        "dev": "deno run --watch --allow-env --allow-read --allow-net app.ts"
+        "dev": "deno run --watch --allow-env --allow-read --allow-net src/app.ts"
     }
 }
