@@ -2,7 +2,7 @@ import { Bot, Collection } from 'discordeno';
 import { config } from '../config.ts';
 import { Command } from '../types.ts';
 
-import ping from './ping.ts';
+import ping from './info/ping.ts';
 
 export const commands: Collection<string, Command> = new Collection();
 
